@@ -1,0 +1,9 @@
+C:\school works\vb\student\student\bin\Debug\student.exe.config
+C:\school works\vb\student\student\bin\Debug\student.exe
+C:\school works\vb\student\student\bin\Debug\student.pdb
+C:\school works\vb\student\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+C:\school works\vb\student\student\obj\Debug\student.studentform.resources
+C:\school works\vb\student\student\obj\Debug\student.Properties.Resources.resources
+C:\school works\vb\student\student\obj\Debug\student.csproj.GenerateResource.Cache
+C:\school works\vb\student\student\obj\Debug\student.exe
+C:\school works\vb\student\student\obj\Debug\student.pdb
